@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Suvir	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://suvir1408.github.io/huy1408</link>
+	Comments on: Mua Theme	</title>
+	<atom:link href="http://localhost/myproject/wordpress/blog/mua-theme/feed/" rel="self" type="application/rss+xml" />
+	<link>https://suvir1408.github.io/huy1408/blog/mua-theme/</link>
 	<description>Trang web về website</description>
 	<lastBuildDate>Wed, 09 Jun 2021 03:03:54 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://suvir1408.github.io/huy1408</link>
 	<description>Trang web về website</description>
-	<lastBuildDate>Wed, 09 Jun 2021 02:21:29 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Jun 2021 03:03:54 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,102 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>Mua Theme</title>
+		<link>https://suvir1408.github.io/huy1408/blog/mua-theme/</link>
+					<comments>https://suvir1408.github.io/huy1408/blog/mua-theme/#respond</comments>
+		
+		<dc:creator><![CDATA[GIA HUY]]></dc:creator>
+		<pubDate>Wed, 09 Jun 2021 03:03:53 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://suvir1408.github.io/huy1408/?p=242</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<figure class="wp-block-image size-large is-resized"><img src="https://suvir1408.github.io/huy1408/wp-content/uploads/2021/06/images.jpg" alt="" class="wp-image-217" height="217"/></figure>
+</div>
+
+
+
+<div class="wp-block-column">
+<figure class="wp-block-image size-large"><img loading="lazy" width="233" height="216" src="https://suvir1408.github.io/huy1408/wp-content/uploads/2021/06/download-3.jpg" alt="" class="wp-image-214"/></figure>
+</div>
+
+
+
+<div class="wp-block-column">
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://suvir1408.github.io/huy1408/wp-content/uploads/2021/06/images-1.jpg" alt="" class="wp-image-215" width="257" height="215"/></figure>
+</div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-center">
+<p style="font-size:35px">CV 7/3</p>
+</div>
+
+
+
+<div class="wp-block-column">
+<div class="wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link">MUA</a></div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center">
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p style="font-size:35px">WEB CƠ BẢN</p>
+</div>
+
+
+
+<div class="wp-block-column">
+<div class="wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link">MUA</a></div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-top">
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p style="font-size:35px">CV ĐỦ</p>
+</div>
+
+
+
+<div class="wp-block-column">
+<div class="wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link">MUA</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://suvir1408.github.io/huy1408/blog/mua-theme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Học HTM</title>
 		<link>https://suvir1408.github.io/huy1408/blog/hoc-htm/</link>
 					<comments>https://suvir1408.github.io/huy1408/blog/hoc-htm/#respond</comments>
@@ -29,7 +125,7 @@
 				<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">https://suvir1408.github.io/huy1408/?p=233</guid>
 
-					<description><![CDATA[Tiêu&#160;đề&#160;HTML Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 THÍ DỤ &#60;h1&#62;Heading 1&#60;/h1&#62;&#60;h2&#62;Heading 2&#60;/h2&#62;&#60;h3&#62;Heading 3&#60;/h3&#62;&#60;h4&#62;Heading 4&#60;/h4&#62;&#60;h5&#62;Heading 5&#60;/h5&#62;&#60;h6&#62;Heading 6&#60;/h6&#62; Tiêu đề lớn hơn Mỗi tiêu đề HTML có một kích thước mặc định.&#160;Tuy nhiên, bạn có thể chỉ định kích thước cho bất kỳ tiêu đề nào có&#160;stylethuộc tính, bằng cách sử &#8230; <a href="https://suvir1408.github.io/huy1408/blog/hoc-htm/" class="more-link">Continue reading<span class="screen-reader-text"> "Học HTM"</span></a>]]></description>
+					<description><![CDATA[Tiêu&#160;đề&#160;HTML Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 THÍ DỤ &#60;h1&#62;Heading 1&#60;/h1&#62;&#60;h2&#62;Heading 2&#60;/h2&#62;&#60;h3&#62;Heading 3&#60;/h3&#62;&#60;h4&#62;Heading 4&#60;/h4&#62;&#60;h5&#62;Heading [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-large is-resized is-style-rounded"><img loading="lazy" src="https://suvir1408.github.io/huy1408/wp-content/uploads/2021/06/download-1.png" alt="" class="wp-image-195" width="841" height="423"/></figure>
 
@@ -97,7 +193,7 @@
 				<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">https://suvir1408.github.io/huy1408/?p=231</guid>
 
-					<description><![CDATA[Màu&#160;CSS Tên màu CSS Trong CSS, một màu có thể được chỉ định bằng cách sử dụng tên màu được xác định trước: Màu nền CSS Bạn có thể đặt màu nền cho các phần tử HTML:Chào thế giới Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet &#8230; <a href="https://suvir1408.github.io/huy1408/blog/hoc-css/" class="more-link">Continue reading<span class="screen-reader-text"> "Học CSS"</span></a>]]></description>
+					<description><![CDATA[Màu&#160;CSS Tên màu CSS Trong CSS, một màu có thể được chỉ định bằng cách sử dụng tên màu được [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-large is-resized is-style-rounded"><img loading="lazy" src="https://suvir1408.github.io/huy1408/wp-content/uploads/2021/06/download.png" alt="" class="wp-image-197" width="839" height="470"/></figure>
 
@@ -165,7 +261,7 @@
 				<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">https://suvir1408.github.io/huy1408/?p=229</guid>
 
-					<description><![CDATA[Thẻ &#60;script&#62; Trong HTML, mã JavaScript được chèn vào giữa&#160;các thẻ&#160;&#60;script&#62;và&#160;&#60;/script&#62;. Thí dụ &#60;script&#62;document.getElementById(&#8220;demo&#8221;).innerHTML&#160;=&#160;&#8220;My First JavaScript&#8221;;&#60;/script&#62; Các chức năng và sự kiện JavaScript JavaScript&#160;functionlà một khối mã JavaScript, có thể được thực thi khi được &#8220;gọi&#8221; cho. VÍ DỤ một hàm có thể được gọi khi một&#160;sự kiện&#160;xảy ra, như khi người dùng nhấp vào &#8230; <a href="https://suvir1408.github.io/huy1408/blog/hoc-javascript/" class="more-link">Continue reading<span class="screen-reader-text"> "Học JAVASCRIPT"</span></a>]]></description>
+					<description><![CDATA[Thẻ &#60;script&#62; Trong HTML, mã JavaScript được chèn vào giữa&#160;các thẻ&#160;&#60;script&#62;và&#160;&#60;/script&#62;. Thí dụ &#60;script&#62;document.getElementById(&#8220;demo&#8221;).innerHTML&#160;=&#160;&#8220;My First JavaScript&#8221;;&#60;/script&#62; Các chức năng và [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-image size-large is-resized is-style-rounded"><img loading="lazy" src="https://suvir1408.github.io/huy1408/wp-content/uploads/2021/06/download-2.png" alt="" class="wp-image-196" width="838" height="312"/></figure>
 
