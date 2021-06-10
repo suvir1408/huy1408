@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/blog/feed/" rel="self" type="application/rss+xml" />
 	<link>https://suvir1408.github.io/huy1408</link>
 	<description>Trang web về website</description>
-	<lastBuildDate>Wed, 09 Jun 2021 03:03:54 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Jun 2021 06:55:39 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -45,7 +45,7 @@
 
 
 <div class="wp-block-column">
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://suvir1408.github.io/huy1408/wp-content/uploads/2021/06/images-1.jpg" alt="" class="wp-image-215" width="257" height="215"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="253" height="199" src="https://suvir1408.github.io/huy1408/wp-content/uploads/2021/06/images-3.jpg" alt="" class="wp-image-255"/></figure>
 </div>
 </div>
 
@@ -55,14 +55,14 @@
 <div class="wp-block-column">
 <div class="wp-block-columns">
 <div class="wp-block-column is-vertically-aligned-center">
-<p style="font-size:35px">CV 7/3</p>
+<p style="font-size:35px"><a href="https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/">iPortfolio</a></p>
 </div>
 
 
 
 <div class="wp-block-column">
 <div class="wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link">MUA</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/">MUA</a></div>
 </div>
 </div>
 </div>
@@ -80,7 +80,7 @@
 
 <div class="wp-block-column">
 <div class="wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link">MUA</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap4-resume-cv-template-for-developers-pillar/">MUA</a></div>
 </div>
 </div>
 </div>
@@ -91,14 +91,14 @@
 <div class="wp-block-column is-vertically-aligned-top">
 <div class="wp-block-columns">
 <div class="wp-block-column">
-<p style="font-size:35px">CV ĐỦ</p>
+<p style="font-size:35px">Vcard2</p>
 </div>
 
 
 
 <div class="wp-block-column">
 <div class="wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link">MUA</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://colorlib.com/wp/template/vcard2/">MUA</a></div>
 </div>
 </div>
 </div>
@@ -176,6 +176,12 @@
 
 
 <figure class="wp-block-pullquote is-style-solid-color"><blockquote><p>Ví dụ</p><cite>&lt;h1&nbsp;style=&#8221;font-size:60px;&#8221;&gt;Heading 1&lt;/h1&gt;</cite></blockquote></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Học lập trình Web A-Z - HTML - Bài 1 làm quen với HTML và một số thẻ HTML cơ bản" width="780" height="439" src="https://www.youtube.com/embed/GArJ0EPu77w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://suvir1408.github.io/huy1408/blog/hoc-htm/feed/</wfw:commentRss>
@@ -243,7 +249,9 @@
 
 
 
-<p></p>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Học lập trình Web A-Z - CSS - Bài 1 -  Bắt đầu làm việc cơ bản với CSS" width="780" height="439" src="https://www.youtube.com/embed/md4YwxS1BFc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://suvir1408.github.io/huy1408/blog/hoc-css/feed/</wfw:commentRss>
@@ -296,6 +304,12 @@
 
 
 <p class="has-luminous-vivid-amber-background-color has-background">Bạn sẽ tìm hiểu thêm về các hàm và sự kiện trong các chương sau.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Học lập trình Web A-Z - JAVASCRIPT- Bài 1 - Tạo chương trình javascript đầu tiên" width="780" height="439" src="https://www.youtube.com/embed/aeNRVbyn2fc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://suvir1408.github.io/huy1408/blog/hoc-javascript/feed/</wfw:commentRss>
